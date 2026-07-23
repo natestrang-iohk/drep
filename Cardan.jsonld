@@ -66,6 +66,7 @@
       "@type": "ImageObject",
       "contentUrl": "",
       "sha256": "296e01d478522df33245a001e4a6c3191fc29d4b9431011fb50831376d02abcf"
-    }
+    },
+    "paymentAddress": "addr1q9ur9smsmzzjgrnsulxx3naq9jgnh8eqnfp2f9eehm76c3z0v2famhkn7nv54fk35jd5wtssewzs7rpz6aazwkk5cmpsx6am26"
   }
 }
